@@ -107,7 +107,7 @@ author:
   location         : "Seoul, Korea"
   email            : "ovm2505@naver.com"
   links:
-    - label: "E-mail"
+    - label: "ovm2505@naver.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
