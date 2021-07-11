@@ -102,12 +102,12 @@ analytics:
 # Site Author
 author:
   name             : "JaeYoon Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/bio-photo.jpg"    # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "**Study**"
   location         : "Seoul, Korea"
-  email            :
+  email            : "ovm2505@naver.com"
   links:
-    - label: "ovm2505@naver.com"
+    - label: "E-mail"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
