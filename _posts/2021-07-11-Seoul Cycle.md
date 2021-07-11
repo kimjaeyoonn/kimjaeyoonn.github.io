@@ -1,3 +1,11 @@
+---
+title: "Jekyll Github 블로그에 MathJax 적용하기"
+date: 2020-03-08 12:14:00 +0800
+categories: [Blogging, Configuration]
+tags: [Jekyll, MathJax]
+use_math: true
+---
+
 {
  "cells": [
   {
