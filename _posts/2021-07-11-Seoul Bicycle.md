@@ -1,5 +1,14 @@
+---
+title: "따릉이 데이터를 활용한 데이터 분석"
+categories: Data-Analysis
+typora-copy-images-to:
+
+# layout: default
+---
+> 각 날짜의 1시간 전의 기상상황을 가지고 1시간 후의 따릉이 대여수를 예측해라
+
+---
 # 따릉이 데이터를 활용한 데이터 분석
-● 각 날짜의 1시간 전의 기상상황을 가지고 1시간 후의 따릉이 대여수를 예측해라
 
 ## Exploratory Data Analysis (EDA)
 
