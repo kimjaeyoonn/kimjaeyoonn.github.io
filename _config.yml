@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kim Jaeyoon"
 description              : "Create Opportunities"
-url                      : "https://kimjaeyoon.github.io" # the base hostname & protocol for your site e.g. 
+url                      : "https://kimjaeyoonn.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "kimjaeyoonn/kimjaeyoon.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "kimjaeyoonn/kimjaeyoonn.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Kim Jaeyoon"
   avatar           : "/assets/imges/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Create Opportunity"
+  bio              : "Create Opportunities"
   location         : "Seoul, Korea"
   email            : 
   links:
