@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "JaeYoon Kim"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "*自求多福**"
+  bio              : "自求多福"
   location         : "Seoul, Korea"
   email            : # "ovm2505@naver.com"
   links:
