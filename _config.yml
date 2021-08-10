@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Kim Jaeyoon"
-  avatar           : "/assets/imges/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Create Opportunities"
   location         : "Seoul, Korea"
   email            : 
