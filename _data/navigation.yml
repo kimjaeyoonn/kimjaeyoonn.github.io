@@ -1,7 +1,9 @@
 # main links
 main:
+  - title: "About"
+    url: "/about/"
   - title: "Categories"
-    url: https://kimjaeyoonn.github.io/categories/
+    url: "/categories/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
