@@ -1,9 +1,16 @@
 ---
-title: "따릉이 데이터를 활용한 데이터 분석"
+title: '따릉이 데이터를 활용한 데이터 분석' 
+excerpt: "다른 형태의 데이터 셋 두 개를 가져와 새로운 df으로 전처리 한 후 병합하는 과정과 다양한 형태의 시각화 과정을 공부하였습니다."
 categories: Data-Analysis
-typora-copy-images-to: ../_images/Seoul Cycle/
----
 
+
+author_profile: true    #작성자 프로필 출력 여부
+
+last_modified_at: 2021-07-11 T21:00:00+09:00
+
+toc: true   #Table Of Contents 목차 
+
+toc_sticky: true
 ---
 > 다른 형태의 데이터 셋 두 개를 가져와 새로운 df으로 전처리 한 후 병합하는 과정과 다양한 형태의 시각화 과정을 공부하였습니다.
 
