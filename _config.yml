@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "custom" # "air", "aqua", "contrast", "dark", "dirt",
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Creat Opportunities"
+title                    : "Today I Learnd"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jaeyoon Kim"
-description              : "自求多福"
+description              : "Creat Opportunities"
 url                      : "https://kimjaeyoonn.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Kimjaeyoonn/Kimjaeyoonn.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "JaeYoon Kim"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "自求多福"
+  bio              : "**Creat Opportunities**"
   location         : "Seoul, Korea"
   email            : # "ovm2505@naver.com"
   links:
