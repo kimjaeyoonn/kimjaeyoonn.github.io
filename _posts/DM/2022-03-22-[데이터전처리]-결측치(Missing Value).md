@@ -1,6 +1,6 @@
 ---
 title: '[데이터 전처리] - 결측치 (Missing Value)' 
-excerpt: 이 글은 결측치의 개념, 종류, 처리 방법에 관한 공부 기록입니다.
+excerpt: 이 글은 이상민 교수님의 데이터 마이닝 수업을 공부한 기록입니다.
 categories: Data-Mining
 author_profile: true    #작성자 프로필 출력 여부
 
